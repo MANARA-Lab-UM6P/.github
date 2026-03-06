@@ -1,6 +1,6 @@
 # MANARA Lab — UM6P College of Computing
 
-**Trustworthy Intelligent Networked & Agentic Research Applications Laboratory**  
+**Multimodal AI, Networks, Analytics, Recommender Systems & Augmented Sensing Laboratory**  
 Mohammed VI Polytechnic University (UM6P) · College of Computing · Benguerir, Morocco
 
 ---
@@ -37,7 +37,7 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 
 ## 👨‍🎓 Team
 
-**PhD Students:** Youness Soussou · Charaf Taii · Ayoub El-Khouzari · Yasser El-Jarida · Abdelghafour Aboukacem · Yassin Terraf · Imane Akdim · Abderrafi Abdeddine
+**PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem · Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii
 
 **Post-Doctoral Researcher:** Mourad Bahani (AI for Healthcare)
 
