@@ -1,7 +1,7 @@
 # MANARA Lab — UM6P College of Computing
 
 **Multimodal AI, Networks, Analytics, Recommender Systems & Augmented Sensing Laboratory**  
-Mohammed VI Polytechnic University (UM6P) · College of Computing · Benguerir, Morocco
+University Mohammed VI Polytechnic (UM6P) · College of Computing · Benguerir, Morocco
 
 ---
 
