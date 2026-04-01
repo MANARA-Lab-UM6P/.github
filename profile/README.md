@@ -1,12 +1,10 @@
 # MANARA Lab — UM6P College of Computing
-
 **Multimodal AI, Networks, Analytics, Recommender Systems & Augmented Sensing Laboratory**  
 University Mohammed VI Polytechnic (UM6P) · College of Computing · Benguerir, Morocco
 
 ---
 
 ## 🔭 About the Lab
-
 MANARA Lab investigates the design and evaluation of **trustworthy, intelligent, and networked systems** at the intersection of AI, IoT, cybersecurity, and speech processing. Our research spans theoretical foundations and deployable systems, with a strong emphasis on open and reproducible science.
 
 **Principal Investigator:** [Prof. Youssef Iraqi](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
@@ -15,7 +13,6 @@ Senior Member IEEE · ACM Member · Associate Professor, College of Computing, U
 ---
 
 ## 🧭 Research Axes
-
 | Axis | Topics |
 |------|--------|
 | 🔐 Trustworthy AI & IoT | Trust models, reputation systems, federated learning, 6G networks |
@@ -26,25 +23,24 @@ Senior Member IEEE · ACM Member · Associate Professor, College of Computing, U
 ---
 
 ## 📦 Repositories
-
 Our repos are organized by research axis. Each publication-linked repo includes:
 - 📄 Paper reference and DOI
 - 🧪 Reproducible experiments
 - 📊 Datasets or links to data
 - 📜 Open-source license
 
+📚 **[Full Publication List](https://github.com/MANARA-Lab-UM6P/publications)** — all MANARA Lab journal articles, conference papers, and patents (2021–present).
+
 ---
 
 ## 👨‍🎓 Team
-
-**PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem · Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii
+**PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem · Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfal Abbassi
 
 **Post-Doctoral Researcher:** Mourad Bahani (AI for Healthcare)
 
 ---
 
 ## 🤝 Collaborations & Funding
-
 - 🏭 OCP Group — SmartAI-Sort: AI-Based Real-Time Prediction and Adaptive Sorting
 - 🇬🇧 British Council — Strengthening Climate Resilience in Morocco (with Cardiff Met)
 - 🇩🇪 Erasmus+ KA171 — Mobility Programme with Ruhr University Bochum
@@ -54,7 +50,6 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 ---
 
 ## 📬 Contact
-
 📧 Youssef.Iraqi@um6p.ma  
 🌐 [College of Computing — UM6P](https://cc.um6p.ma)  
 📍 Benguerir, Morocco
