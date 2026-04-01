@@ -15,10 +15,12 @@ Senior Member IEEE · ACM Member · Associate Professor, College of Computing, U
 ## 🧭 Research Axes
 | Axis | Topics |
 |------|--------|
-| 🔐 Trustworthy AI & IoT | Trust models, reputation systems, federated learning, 6G networks |
-| 🔗 Blockchain & Decentralized Systems | Decentralized trust, smart contracts, digital forensics |
-| 🧠 Intelligent Networked Systems | Edge-cloud computing, agentic AI, network security |
-| 🎙️ Speech & Affective Computing | Speaker identification, speech emotion recognition, overlapping speech |
+| 🤖 Trustworthy AI & Recommender Systems | Trust models, explainable AI, cross-domain and blockchain-based recommender systems, authorship verification |
+| 📡 Wireless Networks & 6G | NOMA, IRS, UAV communications, HARQ, LEO satellite, IoT backhauling |
+| 🔐 Security, Privacy & Blockchain | Physical layer security, cloud forensics, decentralized trust, smart contracts |
+| 🎙️ Speech & Affective Computing | Speaker identification, speech emotion recognition, overlapping speech detection |
+| 🏥 AI for Health & Education | Cardiovascular risk prediction, student dropout detection, medical image analysis |
+| 📱 Mobile Crowdsensing | Task allocation, location privacy, crowdsensing frameworks |
 
 ---
 
@@ -43,7 +45,7 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 ## 🤝 Collaborations & Funding
 - 🏭 OCP Group — SmartAI-Sort: AI-Based Real-Time Prediction and Adaptive Sorting
 - 🇬🇧 British Council — Strengthening Climate Resilience in Morocco (with Cardiff Met)
-- 🇩🇪 Erasmus+ KA171 — Mobility Programme with Ruhr University Bochum
+- 🇩🇪 Erasmus+ KA171 — Mobility Program with Ruhr University Bochum
 - 🇪🇸 UPC-UM6P — LCARS: Leveraging Clustering to Advance Recommender Systems
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales Innovation Network — IntelliCAV: Intelligent Security for Connected and Autonomous Vehicles
 
