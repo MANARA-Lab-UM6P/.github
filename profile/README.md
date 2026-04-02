@@ -36,9 +36,16 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 ---
 
 ## 👨‍🎓 Team
-**PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem · Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfal Abbassi
+
+**Principal Investigator:** [Prof. Youssef Iraqi](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
+Senior Member IEEE · ACM Member · Associate Professor, College of Computing, UM6P
+
+**Associated Faculty:** Prof. Loubna Mekouar  
+Associate Professor, College of Computing, UM6P · Recommender systems, trust management, federated learning, and mobile crowdsensing
 
 **Post-Doctoral Researcher:** Mourad Bahani (AI for Healthcare)
+
+**PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem · Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfal Abbassi
 
 ---
 
