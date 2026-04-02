@@ -41,7 +41,7 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 Senior Member IEEE · ACM Member · Associate Professor, College of Computing, UM6P
 
 **Associated Faculty:** Prof. Loubna Mekouar  
-Associate Professor, College of Computing, UM6P · Recommender systems, trust management, federated learning, and mobile crowdsensing
+Assistant Professor, College of Computing, UM6P · Recommender systems, trust management, federated learning, and mobile crowdsensing
 
 **Post-Doctoral Researcher:** Mourad Bahani (AI for Healthcare)
 
@@ -54,7 +54,7 @@ Associate Professor, College of Computing, UM6P · Recommender systems, trust ma
 - 🇬🇧 British Council — Strengthening Climate Resilience in Morocco (with Cardiff Met)
 - 🇩🇪 Erasmus+ KA171 — Mobility Program with Ruhr University Bochum
 - 🇪🇸 UPC-UM6P — LCARS: Leveraging Clustering to Advance Recommender Systems
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales Innovation Network — IntelliCAV: Intelligent Security for Connected and Autonomous Vehicles
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁥 Wales Innovation Network — IntelliCAV: Intelligent Security for Connected and Autonomous Vehicles
 
 ---
 
