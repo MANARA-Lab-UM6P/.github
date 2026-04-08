@@ -36,7 +36,6 @@ Our repos are organized by research axis. Each publication-linked repo includes:
 ---
 
 ## 👨‍🎓 Team
-
 **Principal Investigator:** [Prof. Youssef Iraqi](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
 Senior Member IEEE · ACM Member · Associate Professor, College of Computing, UM6P
 
@@ -61,4 +60,5 @@ Assistant Professor, College of Computing, UM6P · Recommender systems, trust ma
 ## 📬 Contact
 📧 Youssef.Iraqi@um6p.ma  
 🌐 [College of Computing — UM6P](https://cc.um6p.ma)  
+💼 [MANARA Lab on LinkedIn](https://www.linkedin.com/company/manara-lab-um6p)  
 📍 Benguerir, Morocco
