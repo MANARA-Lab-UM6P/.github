@@ -50,10 +50,16 @@ Senior Member IEEE · ACM Member · Associate Professor, College of Computing, U
 Assistant Professor, College of Computing, UM6P · Trust management, recommender systems,
 federated learning, and mobile crowdsensing
 
-**Post-Doctoral Researcher:** Mourad Bahani (AI for Healthcare)
-
 **PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem ·
 Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfal Abbassi
+
+---
+
+## 🎓 Alumni
+
+| Name | Role | Period | Current Position |
+|------|------|--------|-----------------|
+| Mourad Bahani | Postdoctoral Researcher — AI for Healthcare | 2025–2026 | Assistant Professor, Faculty of Sciences, Mohammed V University, Rabat, Morocco |
 
 ---
 
