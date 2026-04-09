@@ -11,7 +11,7 @@ research spans algorithmic foundations and real-world deployable systems, bridgi
 with networked and physical system constraints. We place a strong emphasis on open and
 reproducible science.
 
-**Principal Investigator:** [Prof. Youssef Iraqi](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
+**Principal Investigator:** [Prof. Youssef Iraqi](https://dr-youssef-iraqi.github.io) · [Google Scholar](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
 Senior Member IEEE · ACM Member · Associate Professor, College of Computing, UM6P
 
 ---
@@ -43,7 +43,7 @@ Lab journal articles, conference papers, and patents (2021–present).
 
 ## 👨‍🎓 Team
 
-**Principal Investigator:** [Prof. Youssef Iraqi](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
+**Principal Investigator:** [Prof. Youssef Iraqi](https://dr-youssef-iraqi.github.io) · [Google Scholar](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en)  
 Senior Member IEEE · ACM Member · Associate Professor, College of Computing, UM6P
 
 **Associated Faculty:** Prof. Loubna Mekouar  
