@@ -60,6 +60,7 @@ Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfa
 | Name | Role | Period | Current Position |
 |------|------|--------|-----------------|
 | Mourad Bahani | Postdoctoral Researcher — AI for Healthcare | 2025–2026 | Assistant Professor, Faculty of Sciences, Mohammed V University, Rabat, Morocco |
+| Abla Bedoui | Postdoctoral Researcher — Resource Management in NOMA Networks | 2023 | Research Scientist, Long Island University, New York, USA |
 
 ---
 
