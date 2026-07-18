@@ -51,7 +51,7 @@ Assistant Professor, College of Computing, UM6P · Trust management, recommender
 federated learning, and mobile crowdsensing
 
 **PhD Students:** Abderrafi Abdeddine · Yassin Terraf · Imane Akdim · Abdelghafour Aboukacem ·
-Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Charaf Taii · Nawfal Abbassi
+Yasser El-Jarida · Ayoub El-Khouzari · Youness Soussou · Nawfal Abbassi
 
 ---
 
